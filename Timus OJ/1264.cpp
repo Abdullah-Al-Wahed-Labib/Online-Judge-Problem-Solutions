@@ -14,7 +14,7 @@
 // Problem Source : https://acm.timus.ru/problem.aspx?space=1&num=1264
 //
 // Credit    : Abdullah Al Wahed
-// TimeStamp : 25 June 2023 at 8:00 AM (Dhaka Standard, EST)
+// TimeStamp : 25 June 2023 at 8:00 AM (Dhaka Standard Time, EST)
 
 #include <iostream>
 using namespace std;

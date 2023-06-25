@@ -1,3 +1,6 @@
+// Credit    : Abdullah Al Wahed
+// TimeStamp : 25 June 2023 at 8:00 AM (Dhaka Standard Time, EST)
+
 #include <iostream>
 using namespace std;
 int main() {
