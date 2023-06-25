@@ -8,7 +8,7 @@
 // 
 // Memory Allocation Optimization:
 // ================================
-// We used usigned short int, as the number of test cases can't be negative and
+// We used unsigned short int, as the number of test cases can't be negative and
 // the maximum range is 40k which is much lower than 65k (in x64 based systems).
 //
 // Problem Source : https://acm.timus.ru/problem.aspx?space=1&num=1264
